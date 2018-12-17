@@ -9,6 +9,10 @@ A very simple calculator, built as a Progressive Web App.
 ### Changelog
 
 
+**Version 1.1.1**
+
+- changed font family of display, changed border color of display
+
 **Version 1.1.0**
 
 - fixed clear memory, changed button and display color, fixed folder bug
