@@ -8,6 +8,9 @@ A very simple calculator, built as a Progressive Web App.
 
 ### Changelog
 
+**Version 1.2.0**
+
+- changed background color of entire calculator
 
 **Version 1.1.1**
 
