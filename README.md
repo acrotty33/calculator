@@ -8,6 +8,10 @@ A very simple calculator, built as a Progressive Web App.
 
 ### Changelog
 
+**Version 1.2.2**
+
+- added parenthesis buttons to calculator
+
 **Version 1.2.1**
 
 - added new font for display
