@@ -22,8 +22,9 @@ body {
 	background-color: #81CEE5;
 	font-size: 8vw;
 	text-align: right;
-	border: 8px solid #bfc4ce;
+	border: 8px solid #81CEE5;
 	padding: 0px;
+	font-family: monospace;
 }
 
 /* Calculator Buttons */
@@ -52,18 +53,21 @@ body {
 	background-color: #3BE4FF;
 	border-bottom: black 8px solid;
 	border-top: 4px #6f6f6f solid;
+	font-family: monospace;
 }
 .button.operator {
 	color: white;
 	background-color: #2DABBF;
 	border-bottom: black 8px solid;
 	border-top: 4px #6f6f6f solid;
+	font-family: monospace;
 }
 .button.number {
 	color: white;
 	background-color: #2BA7BA;
 	border-bottom: black 8px solid;
 	border-top: 4px #6f6f6f solid;
+	font-family: monospace;
 }
 
 /* Simulate Button Press */
